@@ -1,4 +1,4 @@
-    % Matlab code for implementing and plotting the model presented in Karvat 
+% Matlab code for implementing and plotting the model presented in Karvat 
 % and Landau (2023), "A role for bottom-up alpha oscillations in temporal 
 % integration", Journal of Cognitive Neuroscience.
 %
